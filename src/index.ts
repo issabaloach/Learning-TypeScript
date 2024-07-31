@@ -17,3 +17,6 @@ const user : User = {
     CNIC : 12343534,
     favSubjects : ["english", "physics"]
 }
+
+var firstName : string = "issa"
+var lastName  : string = "khan"

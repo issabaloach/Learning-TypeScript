@@ -7,3 +7,5 @@ const user = {
     CNIC: 12343534,
     favSubjects: ["english", "physics"]
 };
+var firstName = "issa";
+var lastName = "khan";
